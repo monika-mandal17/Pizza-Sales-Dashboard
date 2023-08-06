@@ -1,4 +1,4 @@
-# Pizza-Sales-Dashboard
+# Pizza-Sales-Dashboard using Power BI
 
 Problem statement was given by the client.
 
