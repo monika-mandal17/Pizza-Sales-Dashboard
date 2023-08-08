@@ -1,4 +1,4 @@
-# Pizza-Sales-Report using Power BI
+# Pizza-Sales-Dashboard using Power BI
 
 Problem statement was given by the client.
 
@@ -10,5 +10,5 @@ Pizza data is stored in  Database.
 
 Extract the data from Database and analyse it using SQL.Made documentation/Report in MS Word of the findings we got.
 
-Connected Power BI to MySQL database,cleaned,preprocessed and created report.
+Connected Power BI to MySQL database,cleaned,preprocessed and created dashboard.
 
